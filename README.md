@@ -1,26 +1,40 @@
 # future-focused-language
 
+## Introduction
+
+> “Watch your thoughts; they become your words…
+> Watch your words; they become your actions…
+> Watch your actions; they become your habits…
+> Watch your habits; they become your character…
+> Watch your character, for it will become your destiny.” (Talmud)
+
+I think you can't influence your thoughts. But you can influence your words, your language.
+
+
 I am struggeling with finding the right words very often.
 
 In the past people felt insulted several times, although this was not my intention
 
-# Which benefits do you see?
+# ff: Which benefits do you see?
 
 Old: Why should I do it?
+
 Future focused: Which benefits do you see?
 
-# How can I help you?
+# ff: How can I help you?
 
 Old: What do you want?
+
 Future focused: How can I help you?
 
 ..
 
 
-# Silence
+# ff: Silence
 
 Old: I don't care
-Future focus: I say nothing or I choose another topic for conversation.
+
+Future focus: I say nothing, I choose another topic for conversation or say "I don't know".
 
 I think this a very healty attitude in the 21 century. Daily several hundred things which look important hit your brain. People are dying all over the planet, and you don't care? 
 
