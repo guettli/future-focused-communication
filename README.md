@@ -11,7 +11,7 @@
 I think you can't influence your thoughts. But you can influence your words, your language.
 
 
-I am struggeling with finding the right words very often.
+I struggled with finding the right words very often.
 
 In the past people felt insulted several times, although this was not my intention
 
