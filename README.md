@@ -52,3 +52,17 @@ Unfortunately this sound aggressive and that's why I never say "I don't care". I
 If you are in an environment where you think "I don't care" and you are not able to choose another topic for conversation very often. Then it is very likely that you in an environment which usaly gets called "school". Grab a pen and paint something. Write down the things the teacher said. Focus on you goal: to graduate from school.
 
 
+# The opposite: The confusing language
+
+Let's have a look at a different way to communicate: Sentences which express the need for a change without any particular hint how the goal looks like.
+
+Imagine you are a small ant. You have 360° around you. This is one full turn. You want to help someone. But this someone does not tell you the direction. You just get the hint that your current direction is wrong. This is confusing. Now you know that one of 360 options is wrong. Leaving you with 359 options :-(
+
+* I am not amused
+* that's not what I had in mind.
+
+Or pseudo wise quotes like:
+
+* Use the right tool for the job (This is even worse. This is like "one plus one is two". It contains no useful content)
+* It depends.
+
