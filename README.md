@@ -10,16 +10,19 @@
 
 I think you can't influence your thoughts. But you can influence your words, your language.
 
-
 I struggled with finding the right words very often.
 
-In the past people felt insulted several times, although this was not my intention
+In the past people felt insulted several times, although this was not my intention.
 
 # ff: Which benefits do you see?
 
-Old: Why should I do it?
+Old: Why?
 
 Future focused: Which benefits do you see?
+
+There is a book called [Start with why](https://simonsinek.com/product/start-with-why/) but I disagree. You can start with "why?" if you are thinking about your own ideas. Or if you are talking to a friend which you know very well. But we are humans, not robots. The "why?" question is useful, but don't use it immediately. This question feels aggressive.
+
+There is a method called [Five whys](https://en.wikipedia.org/wiki/Five_whys) but use it with caution. People usualy don't like it if they get asked "why?" too often. And if you do it again and again, people won't approach you in the future. And I guess that's not what you want.
 
 # ff: How can I help you?
 
@@ -47,9 +50,22 @@ If I can't help and I know the suffering people, then I can help by sharing my t
 
 I support charitable organizations. That is something I can do and I do it. This makes my world view coherent. This gives me the right to think "I don't care" to all the bad things which happen far away.
 
-Unfortunately this sound aggressive and that's why I never say "I don't care". I say nothing or I choose another topic for conversation.
+Unfortunately this sound aggressive and that's why I avoid to say "I don't care". I say nothing or I choose another topic for conversation. A topic which is my/our area of influence. I don't want waste too much time by talking about things I can't influence.
 
-If you are in an environment where you think "I don't care" and you are not able to choose another topic for conversation very often. Then it is very likely that you in an environment which usaly gets called "school". Grab a pen and paint something. Write down the things the teacher said. Focus on you goal: to graduate from school.
+If you are in an environment where you think "I don't care" and you are not able to choose another topic for conversation very often. Then it is very likely that you are in an environment which usaly gets called "school". Grab a pen and paint something. Write down the things the teacher said. Focus on you goal: to graduate from school. 
+
+## When to apply the future focused language?
+
+According to the book [The 7 Habits](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People) you should "Seek first to understand, then to be understood". According to the book [The coaching habit](https://boxofcrayons.com/the-coaching-habit-book/) you should "tame the advice monster in you".
+
+I like both books very much and recommend them.
+
+Rule #1: Don't tell anybody that he is using a backward looking language and that he should use a future focused language. This meta level is very disrespectful. 
+
+Rule #2: Listen, give empathy
+
+Rule #3: Let one or two days pass. Then approach fellow again and try to focus on the future.
+
 
 
 # The opposite: The confusing language
