@@ -20,7 +20,7 @@ Old: Why?
 
 Future focused: Which benefits do you see?
 
-There is a book called [Start with why](https://simonsinek.com/product/start-with-why/) but I disagree. You can start with "why?" if you are thinking about your own ideas. Or if you are talking to a friend which you know very well. But we are humans, not robots. The "why?" question is useful, but don't use it immediately. This question feels aggressive.
+There is a book called [Start with why](https://simonsinek.com/product/start-with-why/) but I disagree. You can start with "why?" if you are thinking about your own ideas. Or if you are talking to a friend which you know very well. But we are humans, not robots. The "why?" question is useful, but don't use it immediately. This question can feel like a passive aggressive confrontal question.
 
 There is a method called [Five whys](https://en.wikipedia.org/wiki/Five_whys) but use it with caution. People usualy don't like it if they get asked "why?" too often. And if you do it again and again, people won't approach you in the future. And I guess that's not what you want.
 
@@ -54,6 +54,20 @@ Unfortunately this sound aggressive and that's why I avoid to say "I don't care"
 
 If you are in an environment where you think "I don't care" and you are not able to choose another topic for conversation very often. Then it is very likely that you are in an environment which usaly gets called "school". Grab a pen and paint something. Write down the things the teacher said. Focus on you goal: to graduate from school. 
 
+## ff: I don't understand this. 
+
+Old: That's nonsense/rubbish/stupid.....
+
+Just because I don't understand the meaning of something does not mean that there is no meaning.
+
+Are you curious or are you not curious? I think this question depends a lot of your current state of mental energy.
+
+On monday morning you are much more curious than on friday afternooon.
+
+But even on friday afternoon you could shedule an appointment for next week to meet the person who seems to do nonsense/rubbish/stupid things. Ask him to explain his intention, his goal. Remember: 
+
+
+
 ## When to apply the future focused language?
 
 According to the book [The 7 Habits](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People) you should "Seek first to understand, then to be understood". According to the book [The coaching habit](https://boxofcrayons.com/the-coaching-habit-book/) you should "tame the advice monster in you".
@@ -68,17 +82,29 @@ Rule #3: Let one or two days pass. Then approach fellow again and try to focus o
 
 
 
-# The opposite: The confusing language
+# The opposite: The vague and confusing language
 
 Let's have a look at a different way to communicate: Sentences which express the need for a change without any particular hint how the goal looks like.
 
 Imagine you are a small ant. You have 360° around you. This is one full turn. You want to help someone. But this someone does not tell you the direction. You just get the hint that your current direction is wrong. This is confusing. Now you know that one of 360 options is wrong. Leaving you with 359 options :-(
 
-* I am not amused
-* that's not what I had in mind.
+* I am not amused.
+* this is not how I imagined it.
+* that is not right.
 
 Or pseudo wise quotes like:
 
 * Use the right tool for the job (This is even worse. This is like "one plus one is two". It contains no useful content)
 * It depends.
 
+Don't start to work and try to make someone happy after he used vague and confusing sentences like above.
+
+Avoid to guess.
+
+He/she should tell you what he/she wants.
+
+A lot of people (me too) have a bit of a [Negativity Bias](https://en.wikipedia.org/wiki/Negativity_bias). This kind of people focus on the things which are not perfect yet. Like searching easter eggs it is fun if you have found a mistake. 
+
+Don't let this bring you down.
+
+Try to focus on the future and try to find concrete goals to solve these little "not yet perfect" issues.
