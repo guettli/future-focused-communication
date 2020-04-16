@@ -80,7 +80,7 @@ Rule #2: Listen, give empathy
 
 Rule #3: Let one or two days pass. Then approach fellow again and try to focus on the future.
 
-
+Rule #4: If you like the future focused language, then advertise it. But don't do it if you are discussion problems (See Rule #1). 
 
 # The opposite: The vague and confusing language
 
