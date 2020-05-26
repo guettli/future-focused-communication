@@ -66,7 +66,13 @@ On monday morning you are much more curious than on friday afternooon.
 
 But even on friday afternoon you could shedule an appointment for next week to meet the person who seems to do nonsense/rubbish/stupid things. Ask him to explain his intention, his goal. Remember: 
 
+## Why is "future focused" difficult?
 
+It is easy to talk about things you can see, feel and touch.
+
+Talking about imaginary things is more difficult.
+
+I think that's the reason why people prefer to talk about the current state or the past.
 
 ## When to apply the future focused language?
 
