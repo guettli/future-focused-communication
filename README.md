@@ -113,3 +113,11 @@ Try to focus on the future and try to find concrete goals to solve these little 
 
 * [WOOP (Wish,Outcome, Obstacle, Plan)](https://woopmylife.org/en/home)
 * [Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication)
+
+# About
+
+My name is Thomas Güttler. Born 1976 in Germany. 
+
+Feedback is welcome! Please tell me what you think! Hints to typos or unclear sentences are welcome (I guess there are many)
+
+guettli.future-focused@thomas-guettler.de
