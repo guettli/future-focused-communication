@@ -108,3 +108,8 @@ A lot of people (me too) have a bit of a [Negativity Bias](https://en.wikipedia.
 Don't let this bring you down.
 
 Try to focus on the future and try to find concrete goals to solve these little "not yet perfect" issues.
+
+# Related
+
+* [WOOP (Wish,Outcome, Obstacle, Plan)](https://woopmylife.org/en/home)
+* [Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication)
