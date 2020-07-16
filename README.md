@@ -1,4 +1,4 @@
-# future-focused-language
+# Future Focused Communication
 
 ## Introduction
 
@@ -8,53 +8,46 @@
 > Watch your habits; they become your character…
 > Watch your character, for it will become your destiny.” (Talmud)
 
-I think you can't influence your thoughts. But you can influence your words, your language.
+I think you can't influence your thoughts. But you can influence your words, the way you communicate.
 
-I struggled with finding the right words very often.
+Sometimes it was hard for me to find the right words.
 
-In the past people felt insulted several times, although this was not my intention.
-
-# ff: Which benefits do you see?
+# future focused: Which benefits do you see?
 
 Old: Why?
-
-Future focused: Which benefits do you see?
 
 There is a book called [Start with why](https://simonsinek.com/product/start-with-why/) but I disagree. You can start with "why?" if you are thinking about your own ideas. Or if you are talking to a friend which you know very well. But we are humans, not robots. The "why?" question is useful, but don't use it immediately. This question can feel like a passive aggressive confrontal question.
 
 There is a method called [Five whys](https://en.wikipedia.org/wiki/Five_whys) but use it with caution. People usualy don't like it if they get asked "why?" too often. And if you do it again and again, people won't approach you in the future. And I guess that's not what you want.
 
-# ff: How can I help you?
+# future focused: How can I help you?
 
 Old: What do you want?
 
-Future focused: How can I help you?
+Like "Why?" the question "What do you want?" is too direct. It sounds unfriendly, although this might not be your intention.
 
-..
+Be open, show that you friendly and that you have time and use "How can I help you?" instead of "What do you want?"
 
 
-# ff: Silence
+# future focused: Silence
 
 Old: I don't care
 
-Future focus: I say nothing, I choose another topic for conversation or say "I don't know".
+Future focused: I say nothing, or choose another topic for conversation or say "I don't know".
 
-I think this a very healty attitude in the 21 century. Daily several hundred things which look important hit your brain. People are dying all over the planet, and you don't care? 
+"I don't care" sounds rude. But on the other side I think "I don't care" is a very healty attitude in the 21 century. Daily several hundred things which look important hit your brain. People are dying all over the planet, and you don't care? I try to focus on my small area of influence. In my area of I can change things. Having strong feelings for things outside my circle of influence costs me mental energy.   
 
 If I can't influence the situation, then I can't help. 
 
-If I can't help and I don't know the suffering people, then it does not change the situation if I have empathy or not. But empathy is the trend. It is en vogue... blablabla.
+If I can't help and I don't know the suffering people, then it does not change the situation if I have empathy or not. 
 
+I support charitable organizations. That is something I can do and I do it. This makes my world view coherent. This gives me the right to think "I don't care" to all the bad things which happen far away, since I did something (like [Indulgence](https://en.wikipedia.org/wiki/Indulgence))
 
-If I can't help and I know the suffering people, then I can help by sharing my time and listening. But then I usualy don't think "I don't care".
+Unfortunately this sound aggressive and that's why I avoid to say "I don't care". I say nothing, or "I don't know" or I choose another topic for conversation. A topic which is my/our area of influence. I don't want waste too much time by talking about things I can't influence.
 
-I support charitable organizations. That is something I can do and I do it. This makes my world view coherent. This gives me the right to think "I don't care" to all the bad things which happen far away.
+If you are in an environment where you think "I don't care" very often and you are not able to choose another topic for conversation very, then it is very likely that you are in an environment which usaly gets called "school". Grab a pen and paint something. Write down the things the teacher said. Focus on you goal: to graduate from school. 
 
-Unfortunately this sound aggressive and that's why I avoid to say "I don't care". I say nothing or I choose another topic for conversation. A topic which is my/our area of influence. I don't want waste too much time by talking about things I can't influence.
-
-If you are in an environment where you think "I don't care" and you are not able to choose another topic for conversation very often. Then it is very likely that you are in an environment which usaly gets called "school". Grab a pen and paint something. Write down the things the teacher said. Focus on you goal: to graduate from school. 
-
-## ff: I don't understand this. 
+## future focused: I don't understand this. 
 
 Old: That's nonsense/rubbish/stupid.....
 
@@ -62,33 +55,34 @@ Just because I don't understand the meaning of something does not mean that ther
 
 Are you curious or are you not curious? I think this question depends a lot of your current state of mental energy.
 
-On monday morning you are much more curious than on friday afternooon.
+On monday morning you are much more curious than on friday afternoon.
 
-But even on friday afternoon you could shedule an appointment for next week to meet the person who seems to do nonsense/rubbish/stupid things. Ask him to explain his intention, his goal. Remember: 
+But even on friday afternoon you could shedule an appointment for next week to meet the person who seems to do nonsense/rubbish/stupid things. Ask him to explain his intention, his goal. 
 
 ## Why is "future focused" difficult?
 
-It is easy to talk about things you can see, feel and touch.
+It is easy to talk about things you can see, feel and touch. Or things
+from the past which you can recall easily.
 
 Talking about imaginary things is more difficult.
 
 I think that's the reason why people prefer to talk about the current state or the past.
 
-## When to apply the future focused language?
+## When to apply the future focused communication?
 
 According to the book [The 7 Habits](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People) you should "Seek first to understand, then to be understood". According to the book [The coaching habit](https://boxofcrayons.com/the-coaching-habit-book/) you should "tame the advice monster in you".
 
 I like both books very much and recommend them.
 
-Rule #1: Don't tell anybody that he is using a backward looking language and that he should use a future focused language. This meta level is very disrespectful. 
+Rule #1: Don't tell anybody that he is using a backward looking communication and that he should use a future focused communication. This meta level is disrespectful. 
 
 Rule #2: Listen, give empathy
 
-Rule #3: Let one or two days pass. Then approach fellow again and try to focus on the future.
+Rule #3: Let one or two days pass. Then approach the fellow again and try to focus on the future.
 
-Rule #4: If you like the future focused language, then advertise it. But don't do it if you are discussion problems (See Rule #1). 
+Rule #4: If you like the future focused communication, then advertise it. But don't do it if you are discussion problems (See Rule #1). 
 
-# The opposite: The vague and confusing language
+# The opposite: The vague and confusing communication
 
 Let's have a look at a different way to communicate: Sentences which express the need for a change without any particular hint how the goal looks like.
 
