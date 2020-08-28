@@ -109,6 +109,26 @@ Don't let this bring you down.
 
 Try to focus on the future and try to find concrete goals to solve these little "not yet perfect" issues.
 
+# We are all addicted to news
+
+I am addicted to news, you are addicted to news, we are all addicted to news.
+
+Everybody loves different news, but somehow every human being is very curious.
+
+Where does it come from? Have a look at birds pecking for earthworms. How much time do they actually peck?
+
+The numbers just rough numbers from my subjective observations:
+
+* 50% of the time is spent looking to the left and right. Maybe there is a big aggressive cat?
+* 10% of the time is spent attacking other birds which want to peck in the same area.
+* 40% of the time is spent pecking.
+
+We are a bit smarter, but not much.
+
+We still fear that there could be something (like a big aggressive cat). "Am I safe here?" this question
+gets asked constantly in our brains. TODO add ressource 
+
+
 # Related
 
 * [WOOP (Wish,Outcome, Obstacle, Plan)](https://woopmylife.org/en/home)
