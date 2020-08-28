@@ -8,13 +8,19 @@
 > Watch your habits; they become your character…
 > Watch your character, for it will become your destiny.” (Talmud)
 
-I think you can't influence your thoughts. But you can influence your words, the way you communicate.
+I think you can't influence your thoughts directly. But you can influence your words, the way you communicate.
 
-Sometimes it was hard for me to find the right words.
+First this means communicating with yourself. What do you want? 
+
+Second it means: listening. What do the people in your circle of influence want?
+
+Third it means: The way you talk.
 
 # future-focused: Which benefits do you see?
 
 Old: Why?
+
+future-focused: Which benefits do you see?
 
 There is a book called [Start with why](https://simonsinek.com/product/start-with-why/) but I disagree. You can start with "why?" if you are thinking about your own ideas. Or if you are talking to a friend which you know very well. But we are humans, not robots. The "why?" question is useful, but don't use it immediately. This question can feel like a passive-aggressive question.
 
@@ -23,6 +29,8 @@ There is a method called [Five whys](https://en.wikipedia.org/wiki/Five_whys) bu
 # future-focused: How can I help you?
 
 Old: What do you want?
+
+future-focused: How can I help you?
 
 Like "Why?" the question "What do you want?" is too direct. It sounds unfriendly, although this might not be your intention.
 
@@ -50,6 +58,8 @@ If you are in an environment where you think "I don't care" very often and you a
 ## future-focused: I don't understand this. 
 
 Old: That's nonsense/rubbish/stupid.....
+
+future-focused: I don't understand this. 
 
 Just because I don't understand the meaning of something does not mean that there is no meaning.
 
@@ -97,7 +107,7 @@ Or pseudo wise quotes like:
 * Use the right tool for the job (This is even worse. This is like "one plus one is two". It contains no useful content)
 * It depends.
 
-Don't start to work and try to make someone happy after he used vague and confusing sentences like above.
+Don't start and try to make someone happy after he used vague and confusing sentences like above.
 
 Avoid guessing.
 
