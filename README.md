@@ -129,8 +129,7 @@ We still fear that there could be something (like a big aggressive cat). "Am I s
 gets asked constantly in our brains. TODO Add resource 
 
 Future Focused Communication makes you more productive since it raises awareness, that you can learn
-from the past, but that's all. You can only influence the future, that's why this perspective should get more
-focus.
+from the past. But if you want to change something, the past won't help you much. You need a clear goal. You can only influence the future, that's why this perspective should get more focus.
 
 But how is our addiction to news related to Future-Focused Communication?
 
@@ -139,8 +138,23 @@ from the past. It is called "news", but nevertheless it is outdated, it happened
 
 Imagine the earth would be ten times bigger: Ten times more crazy presidents, ten times more
 earthquakes and storms which kill thousand people, ten-time more fanatics which do a suicide attack, ten times more so-called "very important people"
-like movie stars which do very strange things ..... Who cares? You care, but does it make sense? What is inside your circle of influence and
-what is outside of your circle of influence? Your family members, your neighbors, your customers, your teammates ... all the people you meet are VIPs!
+like movie stars which do very strange things ..... Who cares? You care, but does it make sense? 
+
+What is inside your circle of influence and
+what is outside of your circle of influence? Your family members, your neighbors, your customers, your teammates ... all the people you meet have goals.
+It is hard, since our eyes love everything which moves and our ears love sweet-talking and gossip!
+
+It would be an endless battle which you will never win, if you would like to get rid of your news addiction. It is a fundamental part
+of you.
+
+It is useful to be aware of it.
+
+In above text I used the word "news". But I could have used the word "input", too. Since I studied computer science I like the term input, since
+we humans follow the simple [Input-Processing-Output](https://en.wikipedia.org/wiki/IPO_model) cycle like all living creatures.
+
+There are several mindfullness exercise, which help you to sharpen you focus. They give you some free time. Time with no or very little input/news.
+
+I like this one: [Passive Protocol of thoughts](https://github.com/guettli/passive-protocol-of-thoughts)
 
 
 
