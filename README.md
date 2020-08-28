@@ -128,6 +128,21 @@ We are a bit smarter, but not much.
 We still fear that there could be something (like a big aggressive cat). "Am I safe here?" this question
 gets asked constantly in our brains. TODO add ressource 
 
+The Future Focused Communication makes you more productive since it raises the awareness, that you can learn
+from the past, but that's all. You can only influence the future, that's why this perspective should get more
+focus.
+
+But how is our addiction to news related to Future Focused Communication?
+
+News are not new. As soon as the news reach our ear or your eye, they tell a story
+from the past. It is called "news", but nevertheless it is outdated, it happend some hours ago.
+
+Imagine the earth would be ten times bigger: Ten times more crazy presidents, ten times more
+earth quakes and storms which kill thousand people, ten time more fanatics which do a suicide attack, ten times more so called "very important people"
+like movie stars which do very strange things ..... Who cares? You care, but you should not. What is inside you circle of influence and
+what is outside if your circle of influence? Your family members, your neighbours, your teammates are VIPs!
+
+
 
 # Related
 
