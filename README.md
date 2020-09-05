@@ -1,4 +1,4 @@
-# Future Focused Communication
+# Future-Focused Communication
 
 ## Introduction
 
@@ -10,11 +10,15 @@
 
 I think you can't influence your thoughts directly. But you can influence your words, the way you communicate.
 
-First this means communicating with yourself. What do you want? 
+First this means communicating with yourself. What do you want? This is very hard. Sooner or later we are all going to die. All your money, cars, real estate won't change this. What do you want to be written on your grave? I guess not "workaholic". So if you think about what you want, please think beyong money, cars and real estate. If "family" is not part of it, then please think about this again.
 
-Second it means: listening. What do the people in your circle of influence want?
+Second it means: listening. What do the people in your circle of influence want? If you just think the way you think, without doing a retrospective, it is likely that you focus too much on your needs. "Success" means to earn appreciation. Appreciation in form of applaus, love or money (depending of the context). If you focus on your needs, than it is likely that you get what you want. But is this realy what you want? Isn't it more fun to share the success with a group of friends?
 
-Third it means: The way you talk.
+Third it means: The way you talk. Bei polite, be friendly. You are disappointed or even angry? That's your issue. Don't influence
+people with your temporary negative emotions. It is likely that you need their help in the future, so try to relax. Don't kill the creativity, 
+joy and motiviation of your peers by putting your inner pressure on them. Differentiate between "urgent" and "important" (Eisenhover matrix). "Urgent" is evil. Important things need their time.
+
+
 
 # future-focused: Which benefits do you see?
 
@@ -25,6 +29,8 @@ future-focused: Which benefits do you see?
 There is a book called [Start with why](https://simonsinek.com/product/start-with-why/) but I disagree. You can start with "why?" if you are thinking about your own ideas. Or if you are talking to a friend which you know very well. But we are humans, not robots. The "why?" question is useful, but don't use it immediately. This question can feel like a passive-aggressive question.
 
 There is a method called [Five whys](https://en.wikipedia.org/wiki/Five_whys) but use it with caution. People usually don't like it if they get asked "why?" too often. And if you do it again and again, people won't approach you in the future. And I guess that's not what you want.
+
+This gets seconded by Michael Bungay Stanier in his book "The Coaching Habit".
 
 # future-focused: How can I help you?
 
