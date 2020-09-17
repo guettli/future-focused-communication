@@ -10,13 +10,13 @@
 
 I think you can't influence your thoughts directly. But you can influence your words, the way you communicate.
 
-First this means communicating with yourself. What do you want? This is very hard. Sooner or later we are all going to die. All your money, cars, real estate won't change this. What do you want to be written on your grave? I guess not "workaholic". So if you think about what you want, please think beyong money, cars and real estate. If "family" is not part of it, then please think about this again.
+First FFC means communicating with yourself. What do you want? This is very hard. Sooner or later we are all going to die. All your money, cars, real estate won't change this. What do you want to be written on your grave? I guess not "workaholic". So if you think about what you want, please think beyong money, cars and real estate. If "family" is not part of it, then please think about this again.
 
-Second it means: listening. What do the people in your circle of influence want? If you just think the way you think, without doing a retrospective, it is likely that you focus too much on your needs. "Success" means to earn appreciation. Appreciation in form of applaus, love or money (depending of the context). If you focus on your needs, than it is likely that you get what you want. But is this realy what you want? Isn't it more fun to share the success with a group of friends?
+Second FFC means: listening. What do the people in your circle of influence want? If you just think the way you think, without doing a retrospective, it is likely that you focus too much on your needs. "Success" means to earn appreciation. Appreciation in form of applaus, love or money (depending of the context). If you focus on your needs, than it is likely that you get what you want. But is this realy what you want? Isn't it more fun to share the success with a group of friends?
 
-Third it means: The way you talk. Bei polite, be friendly. You are disappointed or even angry? That's your issue. Don't influence
+Third FFC means: The way you talk. Bei polite, be friendly. You are disappointed or even angry? That's your issue. Don't influence
 people with your temporary negative emotions. It is likely that you need their help in the future, so try to relax. Don't kill the creativity, 
-joy and motiviation of your peers by putting your inner pressure on them. Differentiate between "urgent" and "important" (Eisenhover matrix). "Urgent" is evil. Important things need their time.
+joy and motiviation of your peers by putting your inner pressure on them. Differentiate between "urgent" and "important" (Eisenhover matrix). Try to avoid urgency. Urgency is nice in sports (table tennis for example). But on most other caes "urgent" is evil. Important things need their time.
 
 
 
@@ -90,7 +90,7 @@ According to the book [The 7 Habits](https://en.wikipedia.org/wiki/The_7_Habits_
 
 I like both books very much and recommend them.
 
-Rule #1: Don't tell anybody that he is using a backward-looking communication and that he should use a future-focused communication. This meta-level is disrespectful. 
+Rule #1: Don't tell anybody that he is using a backward-looking communication and that he/she should use a future-focused communication. This meta-level is disrespectful. 
 
 Rule #2: Listen, give empathy
 
