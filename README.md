@@ -108,6 +108,7 @@ Imagine you are a small ant. You have 360° around you. This is one full turn. Y
 * this is not how I imagined it.
 * that is not right.
 * that is not correct.
+* don't make it too complicated.
 
 Or pseudo wise quotes like:
 
