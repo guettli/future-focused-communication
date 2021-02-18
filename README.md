@@ -105,10 +105,12 @@ Let's have a look at a different way to communicate: Sentences that express the 
 Imagine you are a small ant. You have 360° around you. This is one full turn. You want to help someone. But this someone does not tell you the direction. You just get the hint that your current direction is wrong. This is confusing. Now you know that one of 360 options is wrong. Leaving you with 359 options :-(
 
 * I am not amused.
-* this is not how I imagined it.
-* that is not right.
-* that is not correct.
-* don't make it too complicated.
+* This is not how I imagined it.
+* That is not right.
+* That is not correct.
+* Don't make it too complicated.
+* I don't want it to be like that.
+
 
 Or pseudo wise quotes like:
 
