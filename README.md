@@ -127,6 +127,16 @@ Don't let this bring you down.
 
 Try to focus on the future and try to find concrete goals to solve these little "not yet perfect" issues.
 
+# Everybody has its own impression
+
+"We should do more ....."
+
+I don't like this general and vague blabla.
+
+Who is "we"? Why does one person think that his/her impressions and goals are shared by the whole group?
+
+I prefer to create a list the feasible specific options. Then discuss, then decide, then do it.
+
 # We are all addicted to news
 
 I am addicted to news, you are addicted to news, we are all addicted to news.
