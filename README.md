@@ -110,7 +110,7 @@ Imagine you are a small ant. You have 360° around you. This is one full turn. Y
 * That is not correct.
 * Don't make it too complicated.
 * I don't want it to be like that.
-
+* That is confusing because .... (following a long explanation why this is confusing. And of course no proposal for how to improve it gets done).
 
 Or pseudo wise quotes like:
 
