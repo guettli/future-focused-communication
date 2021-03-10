@@ -129,6 +129,18 @@ Don't let this bring you down.
 
 Try to focus on the future and try to find concrete goals to solve these little "not yet perfect" issues.
 
+# Phrases
+
+* You have not understood me
+* That's not what I said
+* That's not right
+ 
+.... all theses phrases look into the past. It's useless, avoid it.
+
+# Why is it so common for people to diagnose others with mental disorders?
+
+Don't ask me. To diagnose people is about talking about the past. It has no goal. It is gossip.
+
 # Everybody has its own impression
 
 "We should do more ....."
