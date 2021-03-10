@@ -137,6 +137,10 @@ Try to focus on the future and try to find concrete goals to solve these little 
  
 .... all theses phrases look into the past. It's useless, avoid it.
 
+# Problems vs Goals
+
+Some people like to talk about problems. I think it makes more sense to talk about goals.
+
 # Why is it so common for people to diagnose others with mental disorders?
 
 Don't ask me. To diagnose people is about talking about the past. It has no goal. It is gossip.
