@@ -214,7 +214,7 @@ This is just an example. I have seen it several times before. I say "I am happy 
 
 Grrr.
 
-"I am happy because .." feeds the troll. Don't talk like this. Focus on the future. "I will be happy if ..." is more productive.
+"I am happy because .." feeds the troll. Don't talk like this. Focus on the future. "How to get to ...?" is more productive.
 
 # Related
 
