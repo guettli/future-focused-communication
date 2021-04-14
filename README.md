@@ -202,7 +202,19 @@ There are several mindfullness exercise, which help you to sharpen you focus. Th
 
 I like this one: [Passive Protocol of thoughts](https://github.com/guettli/passive-protocol-of-thoughts)
 
+# "I am happy because ...." and the result
 
+International Team call. Time for smalltalk. Someone from an foreign country explained that it is hard to get a new appartment. To get a new appartment you deal with corrupt people. It is like a Mafia he said.
+
+I said "I am happy because I live in Germany and the average people are forced to deal with corrupt people".
+
+The result. Someone told me how corrupt Germany is. This is bad and that is bad ....
+
+This is just an example. I have seen it several times before. I say "I am happy because ...". And immediately someone lists me all these things which are not perfect.
+
+Grrr.
+
+"I am happy because .." feeds the troll. Don't talk like this. Focus on the future. "I will be happy if ..." is more productive.
 
 # Related
 
