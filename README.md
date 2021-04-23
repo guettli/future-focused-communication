@@ -75,6 +75,10 @@ On Monday morning you are much more curious than on Friday afternoon.
 
 But even on Friday afternoon, you could schedule an appointment for next week to meet the person who seems to do nonsense/rubbish/stupid things. Ask him to explain his intention, his goal. 
 
+## Avoid "I told you so"
+
+"I told you so" hurts. What could you say instead? Maybe ignore the past and focus on the future. You could say "....."
+
 ## Why is "future-focused" difficult?
 
 It is easy to talk about things you can see, feel and touch. Or things
