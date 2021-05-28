@@ -223,6 +223,7 @@ You can make fun of someone. In business context there are several groups which 
 
 If you have an actionable and realizable idea how to improve something, then speak up.
 
+The same goes for "complaining about someone".
 
 # "I am happy because ...." and the result
 
