@@ -133,6 +133,14 @@ Don't let this bring you down.
 
 Try to focus on the future and try to find concrete goals to solve these little "not yet perfect" issues.
 
+# About "being right"
+
+* "This is not correct"
+* "We discussed this in the last call. (then some text why the other person is wrong)" ...
+
+Avoid that. Even if the other person is super stupid. Don't say he/she is wrong. Even if it has been
+discussed several times. Then just explain it again. And maybe create a documen together with written agreements. But don't just say "We discussed this in the last call, because ...". Just focus on "...". Avoid this disrespectfull "We discussed this in the last call.".
+
 # Phrases
 
 * You have not understood me
