@@ -221,7 +221,7 @@ You can make fun of someone. In business context there are several groups which 
 
 .... none. Just don't do it. Period.
 
-
+If you have an actionable and realizable idea how to improve something, then speak up.
 
 
 # "I am happy because ...." and the result
