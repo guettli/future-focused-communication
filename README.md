@@ -214,6 +214,16 @@ There are several mindfullness exercise, which help you to sharpen you focus. Th
 
 I like this one: [Passive Protocol of thoughts](https://github.com/guettli/passive-protocol-of-thoughts)
 
+# make fun of someone
+
+You can make fun of someone. In business context there are several groups which you could make fun of: Customers, competitors, managers, C-level, co-workers, people reporting to you, cleaning staff. Do you see additional groups? Then please add them to the list. Which of these groups is it okay to make fun of? Take your time to think about it.
+
+
+.... none. Just don't do it. Period.
+
+
+
+
 # "I am happy because ...." and the result
 
 International Team call. Time for smalltalk. Someone from an foreign country explained that it is hard to get a new appartment. To get a new appartment you deal with corrupt people. It is like a Mafia he said.
